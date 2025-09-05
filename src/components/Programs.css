@@ -1,0 +1,148 @@
+.programs {
+  background: white;
+  padding: 80px 0;
+}
+
+.programs-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.programs-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.programs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-bottom: 60px;
+}
+
+.program-card {
+  background: white;
+  border-radius: 20px;
+  padding: 40px 30px;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #f1f5f9;
+}
+
+.program-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+}
+
+.program-image {
+  width: 300px;
+  height: 140px;
+  margin: 0 auto 25px;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.program-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.program-card:hover .program-image img {
+  transform: scale(1.05);
+}
+
+.program-card h3 {
+  font-size: 1.4rem;
+  color: #2d3748;
+  margin-bottom: 10px;
+}
+
+.program-age {
+  color: #f093fb;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-bottom: 20px;
+  background: #fef7ff;
+  padding: 8px 16px;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.program-description {
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 25px;
+  font-size: 0.95rem;
+}
+
+.program-features {
+  list-style: none;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.program-features li {
+  color: #2d3748;
+  margin-bottom: 8px;
+  padding-left: 20px;
+  position: relative;
+  font-size: 0.9rem;
+}
+
+.program-features li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #f093fb;
+  font-weight: bold;
+}
+
+.program-card .btn {
+  width: 100%;
+  justify-content: center;
+}
+
+.programs-cta {
+  text-align: center;
+  background: linear-gradient(135deg, #fefefe 0%, #f8fafc 100%);
+  padding: 60px 40px;
+  border-radius: 20px;
+  border: 1px solid #e2e8f0;
+}
+
+.programs-cta h3 {
+  font-size: 1.8rem;
+  color: #2d3748;
+  margin-bottom: 15px;
+}
+
+.programs-cta p {
+  color: #4a5568;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .programs-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .program-card {
+    padding: 30px 25px;
+  }
+
+  .programs-cta {
+    padding: 40px 25px;
+  }
+
+  .programs-cta h3 {
+    font-size: 1.5rem;
+  }
+}

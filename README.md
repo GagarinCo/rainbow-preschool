@@ -1,46 +1,111 @@
-# Getting Started with Create React App
+# 🌈 Rainbow Preschool & Day Care Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautiful, modern React website for Rainbow Preschool & Day Care, showcasing our programs, facilities, and commitment to early childhood education.
 
-## Available Scripts
+## ✨ Features
 
-In the project directory, you can run:
+- **Responsive Design**: Mobile-first approach that works on all devices
+- **Modern UI/UX**: Clean, colorful design that reflects the joy of childhood
+- **Interactive Components**: Engaging user interface with smooth animations
+- **Contact Form**: Easy for parents to reach out online
+- **Program Showcase**: Three detailed programs with specific learning objectives
+- **Parent Reviews**: Real testimonials with Yelp integration
+- **Gallery Section**: Visual showcase of daily activities and learning
+- **Smooth Navigation**: Mobile hamburger menu with auto-close functionality
+- **Accessibility**: Proper alt text, semantic HTML, and keyboard navigation
 
-### `npm start`
+## 🚀 Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Prerequisites
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Node.js (version 14 or higher)
+- npm or yarn
 
-### `npm test`
+### Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd rainbow-day-care
+```
 
-### `npm run build`
+2. Install dependencies:
+```bash
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. Start the development server:
+```bash
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Built With
 
-### `npm run eject`
+- **React 19** - Modern React with hooks and functional components
+- **TypeScript** - Type-safe JavaScript development
+- **CSS3** - Custom styling with modern CSS features
+- **Lucide React** - Beautiful, customizable icons
+- **Responsive Design** - Mobile-first approach
+- **React Scripts** - Build tooling and development server
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 📱 Sections
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Header** - Navigation with mobile hamburger menu
+2. **Hero** - Welcome message with "Reach out to schedule a visit" CTA
+3. **About** - Our story, mission, and core values
+4. **Programs** - Three main programs: Toddler Class, Pre-K Class, and After-School Program
+5. **Reviews** - Parent testimonials with Yelp integration
+6. **Gallery** - Visual showcase of daily activities
+7. **Contact** - Contact form and location information
+8. **Footer** - Quick links, programs, and contact details
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🎨 Design Features
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **Rainbow Theme**: Colorful design that appeals to children and parents
+- **Gradient Backgrounds**: Modern gradient designs throughout
+- **Hover Effects**: Interactive elements with smooth transitions
+- **Card Layouts**: Clean, organized information presentation
+- **Icon Integration**: Meaningful icons for better user experience
+- **Glassmorphism Effects**: Modern glass-like design elements
+- **Consistent Branding**: Pink/purple gradient color scheme throughout
 
-## Learn More
+## 📱 Responsive Design
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The website is fully responsive and optimized for:
+- Desktop computers
+- Tablets
+- Mobile phones
+- All modern browsers
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Deployment
+
+To build the project for production:
+
+```bash
+npm run build
+```
+
+The build files will be created in the `build` folder, ready for deployment to any static hosting service.
+
+## 🤝 Contributing
+
+This is a project for Rainbow Preschool & Day Care. For any suggestions or improvements, please contact the development team.
+
+## 📄 License
+
+This project is proprietary to Rainbow Preschool & Day Care.
+
+## 📞 Contact
+
+**Rainbow Preschool & Day Care**
+- **Location**: Roosevelt Elementary School (Room 33)
+- **Address**: 2434 McGarvey Ave. Redwood City, CA 94061
+- **Phone**: (650) 367-4025 (Call)
+- **Cell**: (650) 784-9131 (Call/text)
+- **Yelp**: [View our reviews](https://www.yelp.com/biz/rainbow-preschool-and-day-care-redwood-city)
+
+---
+
+Made with ❤️ for happy children and their families.
