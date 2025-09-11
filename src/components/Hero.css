@@ -82,7 +82,7 @@
 }
 
 .hero-buttons .btn:hover {
-  background: transparent;
+  background: #f17d71;
   color: white;
   border-color: white;
 }
