@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rainbow-day-care/static/css/main.1d1e40a7.css",
-    "main.js": "/rainbow-day-care/static/js/main.c30040a3.js",
+    "main.css": "/rainbow-day-care/static/css/main.1d0838d0.css",
+    "main.js": "/rainbow-day-care/static/js/main.a3f592e7.js",
     "static/js/453.1ed68af3.chunk.js": "/rainbow-day-care/static/js/453.1ed68af3.chunk.js",
     "static/media/happy_kids.jpg": "/rainbow-day-care/static/media/happy_kids.7ca710015987de800b19.jpg",
     "static/media/pre_k_class.jpeg": "/rainbow-day-care/static/media/pre_k_class.63712ec63fd459fba3a3.jpeg",
@@ -10,12 +10,12 @@
     "static/media/logo.png": "/rainbow-day-care/static/media/logo.b3137c0765f8b79dc4f2.png",
     "static/media/yelp_logo.svg": "/rainbow-day-care/static/media/yelp_logo.45d855a4da204e826319f187ca98a539.svg",
     "index.html": "/rainbow-day-care/index.html",
-    "main.1d1e40a7.css.map": "/rainbow-day-care/static/css/main.1d1e40a7.css.map",
-    "main.c30040a3.js.map": "/rainbow-day-care/static/js/main.c30040a3.js.map",
+    "main.1d0838d0.css.map": "/rainbow-day-care/static/css/main.1d0838d0.css.map",
+    "main.a3f592e7.js.map": "/rainbow-day-care/static/js/main.a3f592e7.js.map",
     "453.1ed68af3.chunk.js.map": "/rainbow-day-care/static/js/453.1ed68af3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d1e40a7.css",
-    "static/js/main.c30040a3.js"
+    "static/css/main.1d0838d0.css",
+    "static/js/main.a3f592e7.js"
   ]
 }
