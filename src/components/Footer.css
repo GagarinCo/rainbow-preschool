@@ -37,6 +37,17 @@
   color: #bdc3c7;
 }
 
+.footer-section p a {
+  color: #bdc3c7;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-size: 0.95rem;
+}
+
+.footer-section p a:hover {
+  color: #4a90e2;
+}
+
 .footer-section ul {
   list-style: none;
   padding: 0;

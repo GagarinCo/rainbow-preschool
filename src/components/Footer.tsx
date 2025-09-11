@@ -42,9 +42,17 @@ const Footer: React.FC = () => {
           <div className="footer-section">
             <h4>Contact Info</h4>
             <p><b>Roosevelt Elementary School(Room 33)</b></p>
-            <p><b>Address:</b> 2434 McGarvey Ave.<br />Redwood City, CA 94061</p>
-            <p><b>Phone:</b> (650)367-4025 (Call)</p>
-            <p><b>Cell:</b> (650)784-9131 (Call/Text)</p>
+            <p><b>Address: </b> 
+              <a href="https://maps.app.goo.gl/WoKJRAJBJ2RzcVVr9" target="_blank">2434 McGarvey Ave.<br />Redwood City, CA 94061</a>
+            </p>
+            <p><b>Phone: </b> 
+              <a href="tel:+16503674025">&#40;650&#41;367-4025</a>
+              (Call)
+            </p>
+            <p><b>Cell: </b>
+              <a href="tel:+16507849131">&#40;650&#41;784-9131</a>
+              (Call/Text)
+            </p>
           </div>
         </div>
 

@@ -35,6 +35,17 @@
   align-items: start;
 }
 
+.contact-info a {
+  color: #369ee3;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-size: 0.95rem;
+}
+
+.contact-info a:hover {
+  color: #0d7cc6;
+}
+
 .contact-info h3 {
   font-size: 1.8rem;
   margin-bottom: 20px;

@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
     ].join('\n');
     
     // Create mailto link
-    const mailtoLink = `mailto:@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:rosiebabad@yahoo.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     // Open email client in new tab
     window.open(mailtoLink, '_blank');
@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div className='contact-item-text'>
                   <h4>Phone</h4>
-                  <p>(650) 367-4025 (Call)<br />(650) 784-9131 (Call/text)</p>
+                  <p><a href="tel:+16503674025">&#40;650&#41; 367-4025</a> (Call)<br /><a href="tel:+16507849131">(650) 784-9131</a> (Call/Text)</p>
                 </div>
               </div>
 
@@ -71,7 +71,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div className='contact-item-text'>
                   <h4>Address</h4>
-                  <p>Roosevelt Elementary School (Room 33)<br />2434 McGarvey Ave. Redwood City, CA 94061</p>
+                  <p>Roosevelt Elementary School (Room 33)<br /><a href="https://maps.app.goo.gl/WoKJRAJBJ2RzcVVr9" target="_blank">2434 McGarvey Ave. Redwood City, CA 94061</a></p>
                 </div>
               </div>
 
