@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/rainbow-day-care/static/css/main.1d0838d0.css",
-    "main.js": "/rainbow-day-care/static/js/main.a3f592e7.js",
-    "static/js/453.1ed68af3.chunk.js": "/rainbow-day-care/static/js/453.1ed68af3.chunk.js",
-    "static/media/happy_kids.jpg": "/rainbow-day-care/static/media/happy_kids.7ca710015987de800b19.jpg",
-    "static/media/pre_k_class.jpeg": "/rainbow-day-care/static/media/pre_k_class.63712ec63fd459fba3a3.jpeg",
-    "static/media/afterschool_class.jpeg": "/rainbow-day-care/static/media/afterschool_class.85e8200a507d6b0780ae.jpeg",
-    "static/media/toddler_class.jpeg": "/rainbow-day-care/static/media/toddler_class.e103fea60d01b96b692b.jpeg",
-    "static/media/logo.png": "/rainbow-day-care/static/media/logo.b3137c0765f8b79dc4f2.png",
-    "static/media/yelp_logo.svg": "/rainbow-day-care/static/media/yelp_logo.45d855a4da204e826319f187ca98a539.svg",
-    "index.html": "/rainbow-day-care/index.html",
-    "main.1d0838d0.css.map": "/rainbow-day-care/static/css/main.1d0838d0.css.map",
-    "main.a3f592e7.js.map": "/rainbow-day-care/static/js/main.a3f592e7.js.map",
-    "453.1ed68af3.chunk.js.map": "/rainbow-day-care/static/js/453.1ed68af3.chunk.js.map"
+    "main.css": "/rainbow-preschool/static/css/main.dbb1a84b.css",
+    "main.js": "/rainbow-preschool/static/js/main.ed5b7204.js",
+    "static/js/453.882f588b.chunk.js": "/rainbow-preschool/static/js/453.882f588b.chunk.js",
+    "static/media/playarea.jpg": "/rainbow-preschool/static/media/playarea.2c262b5a0510909b34bf.jpg",
+    "static/media/cubbies.jpg": "/rainbow-preschool/static/media/cubbies.f0640385dba89134f8b8.jpg",
+    "static/media/playarea2.jpg": "/rainbow-preschool/static/media/playarea2.2d89654dab50c3f52265.jpg",
+    "static/media/rainbow_preschool.jpg": "/rainbow-preschool/static/media/rainbow_preschool.0e1dbbfcd6a84541cff5.jpg",
+    "static/media/happy_kids.jpg": "/rainbow-preschool/static/media/happy_kids.7ca710015987de800b19.jpg",
+    "static/media/pre_k_class.jpeg": "/rainbow-preschool/static/media/pre_k_class.63712ec63fd459fba3a3.jpeg",
+    "static/media/afterschool_class.jpeg": "/rainbow-preschool/static/media/afterschool_class.85e8200a507d6b0780ae.jpeg",
+    "static/media/toddler_class.jpeg": "/rainbow-preschool/static/media/toddler_class.e103fea60d01b96b692b.jpeg",
+    "static/media/logo.png": "/rainbow-preschool/static/media/logo.b3137c0765f8b79dc4f2.png",
+    "static/media/yelp_logo.svg": "/rainbow-preschool/static/media/yelp_logo.45d855a4da204e826319f187ca98a539.svg",
+    "index.html": "/rainbow-preschool/index.html",
+    "main.dbb1a84b.css.map": "/rainbow-preschool/static/css/main.dbb1a84b.css.map",
+    "main.ed5b7204.js.map": "/rainbow-preschool/static/js/main.ed5b7204.js.map",
+    "453.882f588b.chunk.js.map": "/rainbow-preschool/static/js/453.882f588b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d0838d0.css",
-    "static/js/main.a3f592e7.js"
+    "static/css/main.dbb1a84b.css",
+    "static/js/main.ed5b7204.js"
   ]
 }
