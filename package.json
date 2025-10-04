@@ -1,8 +1,8 @@
 {
-  "name": "rainbow-day-care",
+  "name": "rainbow-preschool",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gagarinco.github.io/rainbow-day-care",
+  "homepage": "https://gagarinco.github.io/rainbow-preschool",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",

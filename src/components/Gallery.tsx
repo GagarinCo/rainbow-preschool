@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import './Gallery.css';
-import happyKids from '../images/happy_kids.jpg';
+import cubbies from '../images/cubbies.jpg';
+import playarea from '../images/playarea.jpg';
+import playarea2 from '../images/playarea2.jpg';
+import rainbowPreschool from '../images/rainbow_preschool.jpg';
 
 const Gallery: React.FC = () => {
   const [modal, setModal] = useState<number | null>(null);
@@ -8,33 +11,23 @@ const Gallery: React.FC = () => {
   const galleryImages = [
     {
       id: 1,
-      src: happyKids,
-      alt: 'Happy children playing'
+      src: rainbowPreschool,
+      alt: 'Rainbow Preschool classroom environment'
     },
     {
       id: 2,
-      src: happyKids,
-      alt: 'Learning time'
+      src: playarea,
+      alt: 'Indoor play and reading area'
     },
     {
       id: 3,
-      src: happyKids,
-      alt: 'Outdoor play'
+      src: playarea2,
+      alt: 'Imaginative play space with toys'
     },
     {
       id: 4,
-      src: happyKids,
-      alt: 'Art and crafts'
-    },
-    {
-      id: 5,
-      src: happyKids,
-      alt: 'Story time'
-    },
-    {
-      id: 6,
-      src: happyKids,
-      alt: 'Group activities'
+      src: cubbies,
+      alt: 'Personal cubbies for each child'
     }
   ];
 
@@ -61,7 +54,6 @@ const Gallery: React.FC = () => {
                 <div className="gallery-overlay">
                   <div className="gallery-info">
                     <h4>{image.alt}</h4>
-                    <p>Click to view larger</p>
                   </div>
                 </div>
               </div>

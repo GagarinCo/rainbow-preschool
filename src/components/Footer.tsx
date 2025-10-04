@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
 
         <div className="footer-bottom">
           <p>&copy; 2025 Rainbow Preschool & Day Care. All rights reserved.</p>
-          <p>Made with <Heart size={16} className="heart-icon" /> for happy children</p>
+          <p>Made with <Heart size={16} className="heart-icon" /> for happy children by <a href="https://gagarinco.github.io/kalynovsky/" target="_blank" rel="noopener noreferrer">Kalynovsky</a></p>
         </div>
       </div>
     </footer>

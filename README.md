@@ -26,7 +26,7 @@ A beautiful, modern React website for Rainbow Preschool & Day Care, showcasing o
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd rainbow-day-care
+cd rainbow-preschool
 ```
 
 2. Install dependencies:
@@ -108,4 +108,4 @@ This project is proprietary to Rainbow Preschool & Day Care.
 
 ---
 
-Made with ❤️ for happy children and their families.
+Made with ❤️ for happy children and their families by Kalynovsky.
